@@ -1,6 +1,6 @@
 package org.hl7.fhir.complextype;
 
-import org.hl7.fhir.UnsignedIntType;
+import org.hl7.fhir.primitivetype.restriction.UnsignedIntType;
 import org.hl7.fhir.primitivetype.Base64BinaryType;
 import org.hl7.fhir.primitivetype.DateTimeType;
 import org.hl7.fhir.primitivetype.StringType;
